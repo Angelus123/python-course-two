@@ -3,7 +3,7 @@ PI =-3.14
 x ="Hello"
 '''
 git study
-git reset HEAD~1
+git reset HEAD~1 
 '''
 # We use upper case to indicate constant
 # In python unlike language like c# and javascript
