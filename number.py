@@ -12,3 +12,7 @@
 # print(hex(x))
 
 # complex number
+# a + bi
+x = 1 + 2j
+print(x)
+print(type(x))
